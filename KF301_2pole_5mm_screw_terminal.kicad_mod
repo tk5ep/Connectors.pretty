@@ -1,4 +1,4 @@
-(module KF301_2pole_5mm_screw_terminal (layer F.Cu) (tedit 59E7818C)
+(module KF301_2pole_5mm_screw_terminal (layer F.Cu) (tedit 59E782F6)
   (descr https://www.itead.cc/2-pole-5-0mm-screw-terminal-block-5pcs.html)
   (tags "KF301 2 poles generic plug-in screw terminal 5mm pitch")
   (fp_text reference REF** (at 2.8 5.9) (layer F.SilkS)
@@ -45,6 +45,6 @@
   (fp_line (start 7.4 2.2) (end 7.5 2.2) (layer F.Fab) (width 0.1))
   (fp_line (start -3 4.6) (end -3 4.2) (layer F.CrtYd) (width 0.05))
   (fp_line (start -2.5 0.2) (end -2.5 -0.1) (layer F.SilkS) (width 0.12))
-  (pad 2 thru_hole circle (at 4.99938 0) (size 3.5 3.5) (drill 1.2) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 4.99938 0) (size 3.5 3.5) (drill 1.2) (layers *.Cu *.Mask))
   (pad 1 thru_hole rect (at 0.00066 0) (size 3.5 3.5) (drill 1.2) (layers *.Cu *.Mask))
 )
