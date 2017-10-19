@@ -1,5 +1,5 @@
-(module KF301_2pole_5mm_screw_terminal (layer F.Cu) (tedit 59E798EC)
-  (descr https://www.itead.cc/2-pole-5-0mm-screw-terminal-block-5pcs.html)
+(module KF301_2pole_5mm_screw_terminal (layer F.Cu) (tedit 59E7B46D)
+  (descr http://en.cnkefa.com/index.php?c=product&id=131)
   (tags "KF301 2 poles generic plug-in screw terminal 5mm pitch")
   (fp_text reference REF** (at 2.8 5.9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
